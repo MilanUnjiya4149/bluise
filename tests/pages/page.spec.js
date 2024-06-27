@@ -7,3 +7,4 @@ describe('Page', () => {
     expect(wrapper.isVueInstance()).toBeTruthy();
   });
 });
+// add comment
